@@ -91,4 +91,5 @@ X_ = X[:,lis]
 
 CARS开发使用的PLS 是基于 sklearn 的 NIPALS  并非 MATLAB 的 SIMPLS， 因此 系数趋势图 绘制不理想，暂时砍掉了。除此之外，该版本全部基于python开发完成，与MATLAB存在较大差异在所难免，核心算法思想一致，请自行选择，后续会上传 MATLAB版本 CARS。
 
+源代码：https://gitee.com/aBugsLife/CARS
 示例数据来源：[nirpyresearch.com](https://nirpyresearch.com/)
